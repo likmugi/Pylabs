@@ -1,7 +1,7 @@
 ## Лабораторная работа №1
 ### Задание
 1. Ознакомиться с интерактивным и сценарным режимами работы среды разработки программ на языке Python (IDLE).  
-2. Разработать программу на языке Python, которая выполняет следующее:
+2. Разработать программу на языке Python, которая выполняет следующее:
 
 - С помощью встроенной системы помощи (help>) получает информацию о встроенной функции или операции: 10 – round() ;
 - Выполняет ввод двух аргументов – первый является целым десятичным числом, а второй задается числом с плавающей точкой;
@@ -12,7 +12,7 @@
 - вывести значения операндов и результат побитовой операции в окно среды.
 
 ### Результат
-![[Pasted image 20220507165338.png]]
+<p align="center"><img src="https://sun9-81.userapi.com/s/v1/if2/SjU2JvavNlL-KtmeTiBxucl7091EOZKTCGDw0YLgwsqHZ8rkuk_P6GA74-1I7I9m8rAiZab9hFRH06IM4iyh8HlQ.jpg?size=624x317&quality=96&type=album" /> </p>
 
 ## Лабораторная работа №2
 ### Задание
@@ -31,8 +31,9 @@
 -  Срезы строк
 - Операторы цикла.
 ### Результат
-![[Pasted image 20220507165939.png]]
-![[Pasted image 20220507170006.png]]
+<p align="center"><img src="https://sun9-7.userapi.com/s/v1/if2/WRFfkdnicw-ClOtA4tN1CPuYYrXsNkahPwvGgeD6LCf5LQ8tI63i44zRcih3sGJKkH4D_0BgItuvVqQ2DRYkP1Mz.jpg?size=971x236&quality=96&type=album"/> </p>
+
+<p align="center"><img src="https://sun1-24.userapi.com/s/v1/if2/4Rzf88s9o4fyyG9ecZ6lqzWcpe4_tLePGKSorDACIDiiG8-HTfkwVe1FkuG1ZhtFH04i0-U-_EAaUWU4xGjHB5fU.jpg?size=971x239&quality=96&type=album"/> </p>
 
 ## Лабораторная работа №3
 ### Задание
@@ -51,7 +52,8 @@
 - Выводит результаты выполнения функций на экран.
 
 ### Результат
-![[Pasted image 20220507170240.png]]
+<p align="center"><img src="https://sun9-12.userapi.com/s/v1/if2/l3etDo4mAXxxOhCoI7rGdhlnNp3yMkW5-3Ktu-r3rTMV2JmMjdFkS2m6SBZsLqXKCBb50J_Q2cMeAT8YZwl47I5v.jpg?size=481x501&quality=96&type=album" /> </p>
+
 ## Лабораторная работа №4
 ### Задание
 1. Разработать программу на языке Python, которая выполняет следующее:
@@ -65,8 +67,7 @@
 	- Расширяет функциональность программы следующим образом:  если пользователь дал правильное решение, то ему предоставляется возможность выбрать более  сложный вариант анаграммы (всего три уровня сложности);
 
 ### Результат
-![[Pasted image 20220507171210.png]]
-![[Pasted image 20220507171218.png]]
+<p align="center"><img src="https://sun9-12.userapi.com/s/v1/if2/l3etDo4mAXxxOhCoI7rGdhlnNp3yMkW5-3Ktu-r3rTMV2JmMjdFkS2m6SBZsLqXKCBb50J_Q2cMeAT8YZwl47I5v.jpg?size=481x501&quality=96&type=album" /> </p>
 
 ## Лабораторная работа № 5
 ### Задание
@@ -84,20 +85,21 @@
 	- С помощью встроенной функции exec() код comp_code исполнить.
 
 ### Результат
-![[Pasted image 20220507172615.png]]
+<p align="center"><img src="https://sun9-79.userapi.com/s/v1/if2/wYpYicvp3ydJnRT13YWxhjDZbMXL5vX7nFtvZaZo3J6Ue-2MhHFx1VljCQAeWWnnkKwIXo97mSp6RdxkNNAQsmqB.jpg?size=459x333&quality=96&type=album" /> </p>
+
 ## Итоговая работа
 ### Задание
 Напишите программу, которая принимает имя файла и выводит его расширение. Если расширение у файла определить невозможно, сгенерируйте исключение и обработайте его.
 
 ### Результат
-![](file:///C:/Users/scham/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+<p align="center"><img src="https://sun9-57.userapi.com/s/v1/if2/jgbJ144-p_BFBrL2Nyu0FK30JPxH_KmxImj44IkO_nQMtCxanoL-IcxCmy6Pv8r-Gx_WwcvD6W8rxjaoSTUYLqKJ.jpg?size=436x95&quality=96&type=album"/>Проверка 1</p>
 
-![](file:///C:/Users/scham/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+<p align="center"><img src="https://sun9-45.userapi.com/s/v1/if2/plASp6xWsrfBb9KAkHDqSh0_jQOhE1FHhZh52RteLXqTlOCMTNPxRE4EVi0ZYR1HLNS8h9zw36KBYvGWihDW7h2W.jpg?size=436x95&quality=96&type=album"/>Проверка 2</p>
 
-![](file:///C:/Users/scham/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+<p align="center"><img src="https://sun1-97.userapi.com/s/v1/if2/ZNG9vHuXPYWPsYkPMk5fqUaZaT8z7y1AtecpdcfbKDSVwwSo6hyIYW4dmxz0A37DcbPNnGgymFRsGu3focToryDr.jpg?size=436x93&quality=96&type=album"/>Проверка 3</p>
 
-![](file:///C:/Users/scham/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+<p align="center"><img src="https://sun9-64.userapi.com/s/v1/if2/N_uV--CkjXukjM9xF2kpDzgTcDJTe59OD_DAR61rxuv3HSZavE_mPzpyh_8P4I0tnAJuavFmnlZxRm45zE-FN70g.jpg?size=436x95&quality=96&type=album"/>Проверка 4</p>
 
-![](file:///C:/Users/scham/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+<p align="center"><img src="https://sun9-29.userapi.com/s/v1/if2/IOoMRRiUK649c-24KZ7WGwICYGeGKsjfKYgXlohiEvUfbNCJtbxFF-kJFByDlkQY5cdJi07qbnKYr5UptpqB3QZS.jpg?size=436x94&quality=96&type=album"/>Проверка 5</p>
 
-![](file:///C:/Users/scham/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+<p align="center"><img src="https://sun9-8.userapi.com/s/v1/if2/Jn7HDtBoj8lGgwRvGiSkfxuRkYufKKwI8PYXKWUxPBY3y3HjYE6Y8v4M4KyJY6ZhvPhKexJUBJJAWZQYWln_kc2u.jpg?size=436x90&quality=96&type=album"/>Проверка 6</p>
